@@ -1,4 +1,0 @@
-[submodule "lib/hexo-markmap"]
-	path = lib/hexo-markmap
-	url = https://github.com/yipengh/hexo-markmap.git
-	branch = feature/fold-by-depth
